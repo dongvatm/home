@@ -1,6 +1,5 @@
 <h1 align="center">Hi,I'm Dong 👋</h1>
 <h3 align="center">This is my test Website</h3>
-<h3 align="center">This based on Animehay.tv</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dongvatm" alt="dongvatm" /> </p>
 
